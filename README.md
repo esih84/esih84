@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently working with nextjs and reactjs<br>🌱 I’m currently learning express and  nestjs <br>
+🔭I’m currently working with nextjs and reactjs<br>🌱 I’m learning express and  nestjs <br>
 
 
 # 💻 Tech Stack:
